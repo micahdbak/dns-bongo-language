@@ -1,0 +1,10 @@
+:: define a to be 0
+define: a 0
+:: define b to be 5
+define: b 5
+:: define c to be 0
+define: c 0
+:: add a and b into c 
+add: c a b
+:: return c's value
+return: c
